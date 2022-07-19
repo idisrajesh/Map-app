@@ -1,7 +1,5 @@
 import React, { useRef, useEffect } from "react";
 import { loadModules } from "esri-loader";
-import {Search} from "esri/widgets/Search"
-import { loadModules } from "esri-loader";
 import { Map } from "@esri/react-arcgis";
 
 // hooks allow us to create a map component as a function
